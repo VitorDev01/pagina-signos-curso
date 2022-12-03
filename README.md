@@ -25,14 +25,15 @@
       
          h1 {
            color: #fff;
-           font-family: 300 18px/1.6 'Playfair Display', serif;
+           font-family: 300 17px/1.6 'Playfair Display', serif;
            text-align: center;
          }
          img {
            border-radius: 10%;
            height: 300px;
            width: 300px;
-           margin: 50px;
+           margin: auto;
+           display: block;
            
          }
          p {
@@ -62,8 +63,6 @@
         <hr>
         <br>
         <h1>Os 12 Signos Do Zodíaco</h1>
-        <i>Estudos e Análises Pessoais</i>
-        <br>
         <img src="signos.jpg">
         <p>& viu-se um grande sinal no céu: uma mulher vestida de sol, e a lua debaixo dos seus pés, e uma coroa de <strong>doze estrelas</strong> sobre a sua cabeça.
          <i> Apocalipse capítulo 12</i></p>
