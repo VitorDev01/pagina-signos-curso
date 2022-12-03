@@ -63,7 +63,9 @@
         <hr>
         <br>
         <h1>Os 12 Signos Do Zodíaco</h1>
+        <br>
         <img src="signos.jpg">
+        <br>
         <p>& viu-se um grande sinal no céu: uma mulher vestida de sol, e a lua debaixo dos seus pés, e uma coroa de <strong>doze estrelas</strong> sobre a sua cabeça.
          <i> Apocalipse capítulo 12</i></p>
         
